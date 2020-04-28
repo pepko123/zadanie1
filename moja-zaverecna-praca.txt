@@ -1,1 +1,2 @@
 databazove_aplikacie - aplikácia bude pozostávať z dvoch prepojených tabuliek
+2022
